@@ -1,29 +1,29 @@
-Assignment Question
-Question 1: Build a Complete Database Management System
+## Assignment Question
+### Question 1: Build a Complete Database Management System
 
-Objective:
+**Objective:**
 Design and implement a full-featured relational database using MySQL.
 
-Instructions:
+**Instructions**
 
-Choose a real-world use case (e.g., Library Management, Student Records, Clinic Booking System, Inventory Tracking, E-commerce Store, etc.).
+- Choose a real-world use case (e.g., Library Management, Student Records, Clinic Booking System, Inventory Tracking, E-commerce Store, etc.).
 
-Create a relational database schema that includes:
+- Create a relational database schema that includes:
 
-Well-structured tables.
+- Well-structured tables.
 
-Proper constraints (PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE).
+- Proper constraints (PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE).
 
-Relationships (One-to-One, One-to-Many, Many-to-Many, where applicable).
+- Relationships (One-to-One, One-to-Many, Many-to-Many, where applicable).
 
-Use SQL to implement your design. 
+- Use SQL to implement your design. 
 
-Deliverables:
+**Deliverables:**
 
-A single .sql file containing:
+- A single .sql file containing:
 
-CREATE DATABASE statement
+- CREATE DATABASE statement
 
-CREATE TABLE statements
+- CREATE TABLE statements
 
-Relationship constraints
+- Relationship constraints
